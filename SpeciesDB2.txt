@@ -1,0 +1,20 @@
+# Jahnsite/Whiteite
+# Jahnsite/Whiteite compounds X M<sub>x</sub> M'<sub>y</sub> M"<sub>2</sub>(PO<sub>4</sub>)<sub>4</sub>(OH)<sub>2</sub>.8H<sub>2</sub>O 
+#
+# List of species
+# g(i) and DGfo(Aq) in kJ/mol
+# s(i) in J.mol-1.K-1 at 298 K, 1 bar
+#
+#Col	Name	charge	  g(i)	  s(i)	   DG(aq)
+1	K+	+1	-375.5	 +40.6	   0
+1	Mg2+   	+2	-638.0	 +30.2	   0
+1	Ca2+   	+2	-747.1	 +47.2	   0
+1	Al3+   	+3	-796.2	 +15.3	   0
+1	Mn2+	+2	-443.0	 +70.5	   0
+1	Fe2+	+2	-279.0	 +90.2	   0
+1	Fe3+	+3	-353.1	 +52.0	   0
+2	PO4    	-3	-821.7	 +44.0	   0
+2	H+     	+1	-110.4	 +25.1	   0
+3	OH-    	-1	-115.8	 +33.4	   0
+3	F-     	-1	-278.1	 +19.9	   0
+3	H2O    	 0	-237.1	 +37.6	   0

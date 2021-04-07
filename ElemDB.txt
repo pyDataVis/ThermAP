@@ -1,0 +1,27 @@
+# List of elements
+# So = entropy of element in J.mol-1.K-1 at 298 K, 1 bar
+# For elements occurring in their standard state as polyatomic species, e.g. O2(gaz), 
+# values are listed here as recalculated per single atom for simplicity of calculations
+#
+#Name	state	    So
+Al	S	 28.30
+Ba	S	 62.48
+Br	L	 76.11
+Ca	S	 42.90
+Cd	S	 51.80
+Cl	G	116.54
+Co	S	 30.04
+Cu	S	 33.15
+F	G	101.40
+Fe	S	 27.09
+H	G	 65.34
+K	S	 64.67
+Mg	S	 32.67
+Mn	S	 32.01
+Ni	S	 29.87
+O	G	102.58
+P	S	 41.09
+Pb	S	 64.80
+Sr	S	 55.00
+Zn	S	 41.63
+
